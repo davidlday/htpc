@@ -18,7 +18,7 @@ In 2011 I cut the cable cord. This repo has a little info about my experience, a
 * Winegard DS-2000 Universal Antenna Mount with U-bolts
 * Winegard MS-2002 HDTV Antenna without Cable
 
-Check my original [Amazon HTPC Listmania list](https://www.amazon.com/Cable-free-Home-Theater-PC/lm/RBUBOIY92LPY5/cm_lm_byauthor_title_full/ref=as_li_ss_tl?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=davidlday-20&linkId=GYZUMRQPDX3XNQBQ) for more details.
+Check my original [Amazon HTPC list](https://www.amazon.com/hz/wishlist/ls/3BF71MORKEA9W?ref_=wl_share) for more details.
 
 
 ## Software
