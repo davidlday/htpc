@@ -24,15 +24,15 @@ Check my original [Amazon HTPC list](https://www.amazon.com/hz/wishlist/ls/3BF71
 ## Software
 
 * Windows 10 - Originally Windows 7 Home Premium with Media Center.
-* Plex - The most awesome HTPC software available. If only it had DVR & Live TV functionality.
-* NextPVR - Needed to fill gap left by Media Center when I upgraded to Windows 10
-* zap2xml - Electronic Programming Guide
-* CrashPlan - Backups
+* Plex - The most awesome HTPC software available. ~~If only it had DVR & Live TV functionality.~~ It has everything now, includng Live TV, a music service, and DVR functionality.
+* ~~NextPVR - Needed to fill gap left by Media Center when I upgraded to Windows 10~~ Plex does this.
+* ~~zap2xml - Electronic Programming Guide~~ Plex does this
+* ~~CrashPlan - Backups~~ Now just using Windows backup with an external drive.
 * HandBrake - Transcoding and DVD ripping
 
-Most of the software is pretty straight forward. However, in my quest to replace Media Center, I wound up having to create custom batch files to manage things like the Electronic Programming Guide (EPG), transcoding, and getting Plex and NextPVR working together reasonably well. Most of the scripts here deal with those challenges.
+Most of the software is pretty straight forward. ~~However, in my quest to replace Media Center, I wound up having to create custom batch files to manage things like the Electronic Programming Guide (EPG), transcoding, and getting Plex and NextPVR working together reasonably well. Most of the scripts here deal with those challenges.~~ It's all straighforward. Install Windows, install Plex, subscribe to Plex Pass (optional). You're done. My next rebuild (coming soon) will likely be on Linux to ease maintenance.
 
-### NextPVR References
+### NextPVR References (No Longer Used)
 
 Links to resources that helped me get things working.
 
